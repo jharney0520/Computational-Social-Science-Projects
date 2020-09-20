@@ -1,0 +1,6 @@
+git clone https://github.com/jharney0520/Computational-Social-Science-Projects.git
+mkdir Project-1 
+vim Commands-Project-1.txt
+git add Commands-Project-1.txt
+git commit -m "Created text file with commands used"
+git push 
